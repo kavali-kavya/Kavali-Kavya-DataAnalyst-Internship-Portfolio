@@ -27,7 +27,7 @@ To gain practical experience in data analysis by working on real-world datasets 
 - Saved the cleaned dataset
 
 **Repository:**  
-Paste your **https://github.com/kavali-kavya/Task1_Data_Immersion_Wrangling** here.
+**https://github.com/kavali-kavya/Task1_Data_Immersion_Wrangling** 
 
 ---
 
@@ -38,7 +38,7 @@ Paste your **https://github.com/kavali-kavya/Task1_Data_Immersion_Wrangling** he
 - Identified trends and patterns
 
 **Repository:**  
-Paste your ** https://github.com/kavali-kavya/Task2_EDA_Business_Intelligence** here.
+ ** https://github.com/kavali-kavya/Task2_EDA_Business_Intelligence** 
 
 ---
 
@@ -49,7 +49,7 @@ Paste your ** https://github.com/kavali-kavya/Task2_EDA_Business_Intelligence** 
 - Developed an interactive business dashboard
 
 **Repository:**  
-Paste your **https://github.com/kavali-kavya/Task3_Interactive_Dashboard** here.
+**https://github.com/kavali-kavya/Task3_Interactive_Dashboard** 
 
 ---
 
@@ -60,7 +60,7 @@ Paste your **https://github.com/kavali-kavya/Task3_Interactive_Dashboard** here.
 - Provided business recommendations
 
 **Repository:**  
-Paste your **** here.
+ **https://github.com/kavali-kavya/Task4_Data_Storytelling** 
 
 ---
 
