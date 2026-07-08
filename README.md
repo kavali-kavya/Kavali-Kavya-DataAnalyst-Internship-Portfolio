@@ -27,7 +27,7 @@ To gain practical experience in data analysis by working on real-world datasets 
 - Saved the cleaned dataset
 
 **Repository:**  
-Paste your **Task 1 GitHub repository link** here.
+Paste your **** here.
 
 ---
 
@@ -38,7 +38,7 @@ Paste your **Task 1 GitHub repository link** here.
 - Identified trends and patterns
 
 **Repository:**  
-Paste your **Task 2 GitHub repository link** here.
+Paste your ** https://github.com/kavali-kavya/Task2_EDA_Business_Intelligence** here.
 
 ---
 
