@@ -49,7 +49,7 @@ Paste your ** https://github.com/kavali-kavya/Task2_EDA_Business_Intelligence** 
 - Developed an interactive business dashboard
 
 **Repository:**  
-Paste your **** here.
+Paste your **https://github.com/kavali-kavya/Task3_Interactive_Dashboard** here.
 
 ---
 
@@ -60,7 +60,7 @@ Paste your **** here.
 - Provided business recommendations
 
 **Repository:**  
-Paste your **Task 4 GitHub repository link** here.
+Paste your **** here.
 
 ---
 
